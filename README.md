@@ -1,5 +1,5 @@
 # Javascript, CSS & HTML MODAL.
- Click the button to view modal.
+ Kindly Click on the link below, then on the button to view modal.
 
 ### Screenshot
 
@@ -8,4 +8,4 @@
 
 ### Links
 
-- Live Site URL: [Visit Website ](https://greycode-007.github.io/modalJs/)
+- Live Site URL: [Visit Website ](ttps://greycode-007.github.io/Modal-Js/)
