@@ -8,4 +8,4 @@
 
 ### Links
 
-- Live Site URL: [Visit Website ](ttps://greycode-007.github.io/Modal-Js/)
+- Live Site URL: [Visit Website ](https://greycode-007.github.io/Modal-Js/)
